@@ -3,3 +3,4 @@
 ### SuperHeros
 - Ninja
 - Iron Man
+- Super Man
